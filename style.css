@@ -438,3 +438,11 @@
 
 
 
+.sk4in{
+    background-repeat: no-repeat;
+    background-image: url(handshake.jpg);
+    background-position: center;
+    width: 1475px;
+    height: 375px;
+    margin-left: 205px;
+}
