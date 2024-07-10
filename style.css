@@ -59,7 +59,7 @@
     width:min-content;
     background-color: #ececec;
     margin-top: 200px;
-    padding-bottom: 20px;
+    padding-bottom: 40px;
     border-radius: 7px;
 }
 
@@ -278,7 +278,7 @@
 
 .inspiration{
     font-size: 42px;
-    font-family:  font-family: "Azeret Mono", monospace;
+    font-family: "Azeret Mono", monospace;
 }
 
 
@@ -305,9 +305,7 @@
 
 
 
-.sk3{
-    
-}
+
 
 
 
@@ -360,6 +358,8 @@
 .hr{
     margin-top: 20px;
     margin-left: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
 }
 
 
@@ -387,6 +387,8 @@
 .cr{
     margin-top: 20px;
     margin-left: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
 }
 
 
@@ -416,6 +418,8 @@
 .jr{
     margin-top: 20px;
     margin-left: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
 }
 
 
@@ -507,3 +511,61 @@
     font-size: 15px;
     color: #0D1321;
 }
+
+
+
+
+
+
+
+
+/*Footer starts from here*/
+
+
+
+
+
+
+.foot{
+    margin-top: 75px;
+    background-color: #e6e6e6;
+    padding: 32px 150px 27px 150px ;
+    font-size: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.footcommit{
+    margin-top: 20px;
+}
+
+
+.images{
+    width: 200px;
+}
+
+.icons{
+    margin: 10px;
+}
+
+
+
+
+
+
+/*            <div>
+                <img src="facebook.png" alt="not found">
+            </div>
+
+
+            <div>
+                <img src="github.png" alt="not found">
+            </div>
+
+
+
+            <div>
+                <img src="linkedin-icon 1.png" alt="">
+            </div>*/
